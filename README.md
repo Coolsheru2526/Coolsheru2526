@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Mishra</h1>
-<h3 align="center">📚 3rd Year ECE Undergraduate at VNIT Nagpur 💻 Full Stack Developer 🤖 Machine Learning Enthusiast 🔍 Strong Grasp of Data Structures and Algorithms</h3>
+<h3 align="center">📚 3rd Year ECE Undergraduate at VNIT Nagpur <br>💻 Full Stack Developer <br>🤖 Machine Learning Enthusiast <br>🔍 Strong Grasp of Data Structures and Algorithms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolsheru2526&label=Profile%20views&color=0e75b6&style=flat" alt="coolsheru2526" /> </p>
 
